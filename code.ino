@@ -259,7 +259,7 @@ void loop() {
   								
 
 	 	   
-	\*if(freq>=90&&freq<110)
+	/*if(freq>=90&&freq<110)
 	{	m.writeSprite(0,0,happy);
 		delay(7000);
 	}
@@ -357,7 +357,7 @@ void loop() {
 	{	m.writeSprite(0,0,happy);
 		delay(500);
 		for(i=0;i<5;i++)
-		{
+		{\*
 			m.shiftRight(false);
 			delay(500);
 		}
@@ -379,7 +379,7 @@ void loop() {
 		{	m.shiftLeft(false);
 			delay(500);
 		}
-	}*\
+	}*/
 }
 
 
