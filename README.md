@@ -1,8 +1,10 @@
 # Compass
 **Abstract**:
+
 The main motive of this device is to help the two-wheelers navigate without having to use different applications or mounting their mobile phones or other expensive machines on the vehicle. The significant finding from this project is the voice pack utilization for navigation. Our device can be used in bright sunlight as well as in the dark. It is compact and user-friendly. Our project has a benefit that we do not need any application for navigation. The Google APIs that are used to make a navigation system are costly; hence, we have made use of voice packs to make navigation device cheap. It could become an inbuilt function of Google Maps, and multiple devices could use it without needing to make separate applications for navigation.
 
 **Working**:
+
 The major breakthrough in this working is that we are using the google voice packs to get the navigation system data from google maps. All the command in google maps has a voice(.mp3) file linked with it which is played whenever the command is activated.We made a voice pack for our own having frequency linked with each command.The Bluetooth receiver receives the frequency and shows the linked command animation on the LED matrix.
 
 **Design**:
